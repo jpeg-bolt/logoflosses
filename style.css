@@ -16,7 +16,7 @@ padding-left:3em;
 text-align: left;}
 
 
-.btn{height:3em; width:6em;
+.btn{height:2em; width:12em;
 font-size: 18px;
 font-family: 'IBM Plex Mono', monospace;
 color:#1bfa8e;
@@ -38,8 +38,9 @@ p{font-family:'IBM Plex Mono', monospace;
 font-size: 0.5em;
 text-align: left;}
 
-img{height:25px;
-width:25px;
+img{height:80VH;
+width:AUTO;
+
 }
 
 #conceptHere {
@@ -47,7 +48,7 @@ font-family: 'IBM Plex Mono', monospace;
 background-color: rgb(5, 0, 171); 
 color:#1bfa8e;
 padding-left:3em;
-    padding-right:40vh;
+    padding-right:60vh;
 text-align: left;
 font-weight: 0;
 font-size:1em;}
