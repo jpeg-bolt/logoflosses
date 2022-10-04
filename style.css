@@ -1,0 +1,64 @@
+body{background-color:rgb(5, 0, 171);  margin:auto;}
+
+h2{
+font-family: 'IBM Plex Mono', monospace;
+background-color: rgb(5, 0, 171); 
+color:#1bfa8e;
+font-size:3em;
+text-align: left;}
+
+h3{
+font-family: 'IBM Plex Mono', monospace;
+background-color: rgb(5, 0, 171); 
+color:#1bfa8e;
+font-size:1.5em;
+padding-left:3em;
+text-align: left;}
+
+
+.btn{height:3em; width:6em;
+font-size: 18px;
+font-family: 'IBM Plex Mono', monospace;
+color:#1bfa8e;
+background-color: rgb(5, 0, 171);
+border:dashed;
+text-align:left;
+border-radius: 5px;}
+
+.card{padding:15px 30px 15px 30px;
+margin:40px auto;
+max-width:500px;
+max-height:300px;
+text-align: center;
+background-color: #ffffff;
+border-radius: 5px;
+} 
+
+p{font-family:'IBM Plex Mono', monospace;
+font-size: 0.5em;
+text-align: left;}
+
+img{height:25px;
+width:25px;
+}
+
+#conceptHere {
+font-family: 'IBM Plex Mono', monospace;
+background-color: rgb(5, 0, 171); 
+color:#1bfa8e;
+padding-left:3em;
+    padding-right:60vh;
+text-align: left;
+font-weight: 0;
+font-size:1em;}
+
+
+span{
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker{
+  50%{
+    opacity: 0;
+  }
+}
