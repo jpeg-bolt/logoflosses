@@ -53,6 +53,10 @@ text-align: left;
 font-weight: 0;
 font-size:1em;}
 
+div {
+ padding-right:60vw;   
+}
+
 
 span{
   animation: blinker 1s linear infinite;
